@@ -1,2 +1,2 @@
 # LCC-Site
-My PM eaton Resa site
+My PM Eaton RESA site
